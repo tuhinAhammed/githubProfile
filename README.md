@@ -28,10 +28,6 @@
 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhinahammed&show_icons=true&locale=en&layout=compact" alt="tuhinahammed" /></p>
 
-<p><img align="center" class="pppp"  src="https://github-readme-stats.vercel.app/api?username=tuhinahammed&show_icons=true&locale=en" alt="tuhinahammed" /></p>
-    <style>
-    .pppp {
-    padding-top : 20px
-    }
-    </style>
+<p><img align="center"  padding-botom = "20px"  src="https://github-readme-stats.vercel.app/api?username=tuhinahammed&show_icons=true&locale=en" alt="tuhinahammed" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuhinahammed&" alt="tuhinahammed" /></p>
