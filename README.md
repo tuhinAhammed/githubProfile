@@ -1,3 +1,4 @@
+# React-Js---Practice
  <img src="https://raw.githubusercontent.com/tuhinAhammed/tuhin9/main/IMG_20240308_133752.jpg" alt="">
     <h1 align="center">Hi 👋, I'm Tuhin Ahammed Shuvo</h1>
     <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
@@ -28,6 +29,6 @@
 
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tuhinahammed&show_icons=true&locale=en&layout=compact" alt="tuhinahammed" /></p>
 
-<p>&nbsp;<img align="center" padding-top="36px"  src="https://github-readme-stats.vercel.app/api?username=tuhinahammed&show_icons=true&locale=en" alt="tuhinahammed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuhinahammed&" alt="tuhinahammed" /></p>
+
