@@ -3,7 +3,7 @@
     <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 <div class="image-wrapper" margin="40px">
     <a href="https://heyzine.com/flip-book/966fe50ec7.html">
-        <img align="right" width="600px" height="850px" src="https://raw.githubusercontent.com/tuhinAhammed/tuhin9/main/images/Black%20and%20White%20Simple%20Minimalist%20Business%20CV%20Resume%20(1).png" alt="">
+        <img align="right" width="450px" height="640px" src="https://raw.githubusercontent.com/tuhinAhammed/tuhin9/main/images/Black%20and%20White%20Simple%20Minimalist%20Business%20CV%20Resume%20(1).png" alt="">
     </a>
 </div>
 - 🔭 I’m currently working on **Orebi Ecommerce**
