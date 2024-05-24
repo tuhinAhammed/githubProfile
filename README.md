@@ -3,7 +3,7 @@
     <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
     <div paddin-bottom = "30px">
      
-<img align="right" alt="Coding" width="400" padding-bottom="36px !important" src="https://ibb.co/PMZ3Mcr">
+<img  src="https://ibb.co/PMZ3Mcr">
     </div>
 
 - 🔭 I’m currently working on **Orebi Ecommerce**
