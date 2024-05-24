@@ -1,8 +1,6 @@
  <img src="https://raw.githubusercontent.com/tuhinAhammed/tuhin9/main/IMG_20240308_133752.jpg" alt="">
     <h1 align="center">Hi 👋, I'm Tuhin Ahammed Shuvo</h1>
     <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
-     
-<img align ="right" src="https://github.com/tuhinAhammed/tuhin9/blob/main/images/Black%20and%20White%20Simple%20Minimalist%20Business%20CV%20Resume%20(1).png">
 
 - 🔭 I’m currently working on **Orebi Ecommerce**
 
