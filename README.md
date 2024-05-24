@@ -1,7 +1,11 @@
  <img src="https://raw.githubusercontent.com/tuhinAhammed/tuhin9/main/IMG_20240308_133752.jpg" alt="">
     <h1 align="center">Hi 👋, I'm Tuhin Ahammed Shuvo</h1>
     <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
-<img  align="right" src="https://raw.githubusercontent.com/tuhinAhammed/tuhin9/main/images/Black%20and%20White%20Simple%20Minimalist%20Business%20CV%20Resume%20(1).png" alt="">
+<div class="image-wrapper" margin="40px">
+    <a href="https://heyzine.com/flip-book/966fe50ec7.html">
+        <img align="right" width="600px" height="850px" src="https://raw.githubusercontent.com/tuhinAhammed/tuhin9/main/images/Black%20and%20White%20Simple%20Minimalist%20Business%20CV%20Resume%20(1).png" alt="">
+    </a>
+</div>
 - 🔭 I’m currently working on **Orebi Ecommerce**
 
 - 👯 I’m looking to collaborate on **Dream Talk**
